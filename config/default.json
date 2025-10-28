@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sargbahamos8_db_user:Amos123@devconnector.alraosh.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "mySuperSecretKey123"
+}
